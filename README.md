@@ -1,5 +1,3 @@
-# Self-Introduction
-Bioinformatics PhD student at the Academy of Military Medical Sciences, focusing on multi-omics and medical AI.
 # Peiyuan Lv | 吕培源
 
 **PhD Student in Bioinformatics**  
@@ -7,24 +5,35 @@ Academy of Military Medical Sciences, Beijing 100850, China
 
 ## About Me
 
-I am a PhD student in Bioinformatics at the Academy of Military Medical Sciences, with an undergraduate background in clinical medicine. I began my doctoral studies in September 2025.
+I am a PhD student in Bioinformatics at the Academy of Military Medical Sciences, where I began my doctoral studies in September 2025. I previously studied Clinical Medicine at Air Force Medical University.
 
-My research interests connect computational biology with medical artificial intelligence. I am interested in understanding disease mechanisms through molecular data and developing computational methods that address clinically relevant questions.
+My research lies at the intersection of computational biology and medical artificial intelligence, with a focus on single-cell genomics, multi-omics integration, and biomedical foundation models. With a background in clinical medicine, I am interested in connecting molecular insights with clinically relevant questions and developing computational approaches for disease characterization, diagnosis, and prognosis.
+
+## Education
+
+### Academy of Military Medical Sciences
+**PhD Studies in Bioinformatics | 2025–Present**  
+Beijing, China
+
+### Air Force Medical University | 空军军医大学
+**Undergraduate Studies in Clinical Medicine | 2020–2025**  
+Xi'an, Shaanxi, China
+
+### High School Affiliated to Beijing Institute of Technology | 北京理工大学附属中学
+**High School Education | 2016–2020**  
+Beijing, China
 
 ## Research Interests
 
-- **Single-cell genomics and multi-omics integration** — characterizing cellular heterogeneity and connecting molecular measurements across modalities.
-- **Cancer epigenomics** — studying DNA methylation and exploring biomarkers for cancer detection and classification.
-- **Biomedical foundation models** — investigating representation learning and multimodal approaches for biomedical data.
-- **Cellular response modeling** — studying cell states and their responses to perturbations.
+- **Single-cell genomics and multi-omics integration** — characterizing cellular heterogeneity and integrating molecular information across biological modalities.
+- **Cancer epigenomics** — investigating DNA methylation patterns and exploring biomarkers for cancer detection and classification.
+- **Biomedical foundation models** — exploring representation learning and multimodal modeling for biomedical applications.
+- **Cellular response modeling** — understanding cell states and predicting their responses to biological and environmental perturbations.
 - **Clinical machine learning** — developing and evaluating models for diagnosis, prognosis, and clinical decision support.
 
-## Contact
-
-- **Email:** [PeiyuanLv2001@163.com](mailto:PeiyuanLv2001@163.com)
 ## Publications
 
-My name is highlighted in **bold**. Publication details and author names follow the published records.
+My name is highlighted in **bold**. Co-first authorship is indicated where applicable.
 
 ### 2025
 
@@ -64,5 +73,10 @@ My name is highlighted in **bold**. Publication details and author names follow 
 
 7. **吕培源**, 冯慧洁, 张蓬鑫, 彭霏, 薛懿珈, 阮彩莲, 董玉琳.  
    **小鼠未定带至PAG腹外侧区特异性神经元通路的形态学研究.**  
-   *神经解剖学杂志*. 2023;39(4):401–406. [In Chinese; first author.]  
+   *神经解剖学杂志*. 2023;39(4):401–406. **First author.** [In Chinese]  
    [DOI: 10.16557/j.cnki.1000-7547.2023.04.004](https://doi.org/10.16557/j.cnki.1000-7547.2023.04.004)
+
+## Contact
+
+**Email:** [PeiyuanLv2001@163.com](mailto:PeiyuanLv2001@163.com)  
+**Affiliation:** Academy of Military Medical Sciences, Beijing 100850, China
